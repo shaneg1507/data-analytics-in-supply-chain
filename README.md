@@ -1,5 +1,7 @@
 # data-analytics-in-supply-chain
 
+The data for this project is stored in a google drive folder and can be accessed by request: https://drive.google.com/drive/folders/1XrgaRp9ts6SK10pGPPTW75btIYmeta3I?usp=sharing
+
 The analysis for my ME in Engineering with Business thesis at University College Dublin's School of Mechanical and Materials Engineering in May 2020.
 
 If the final customer demand were constant, supply chain management (SCM) would simply be a
