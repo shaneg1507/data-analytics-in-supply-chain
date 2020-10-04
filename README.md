@@ -1,12 +1,18 @@
 # data-analytics-in-supply-chain
 
-by Shane Ó Gruagáin
-The thesis is submitted to University College Dublin in part fulfilment of the requirements for the degree:
-ME in Engineering with Business
-School of Mechanical and Materials Engineering
-Scoil na hInnealtóireachta Meicniúla & Ábhar UCD
-Supervisor: Dr. Vincent Hargaden
-May 2020
+<div align="center"> by Shane Ó Gruagáin </div>
+
+<div align="center"> The thesis is submitted to University College Dublin in part fulfilment of the requirements for the degree: </div>
+
+<div align="center"> ME in Engineering with Business </div>
+
+<div align="center"> School of Mechanical and Materials Engineering </div>
+
+<div align="center"> Scoil na hInnealtóireachta Meicniúla & Ábhar UCD </div> 
+
+<div align="center"> Supervisor: Dr. Vincent Hargaden </div>
+
+<div align="center"> May 2020 </div>
 
 If the final customer demand were constant, supply chain management (SCM) would simply be a
 backwards scheduling exercise. However, the demand is unknown and changeable and it must
