@@ -1,6 +1,6 @@
 # data-analytics-in-supply-chain
 
-My thesis for my ME in Engineering with Business at University College Dublin School of Mechanical and Materials Engineering in May 2020.
+My thesis for my ME in Engineering with Business at University College Dublin's School of Mechanical and Materials Engineering in May 2020.
 
 If the final customer demand were constant, supply chain management (SCM) would simply be a
 backwards scheduling exercise. However, the demand is unknown and changeable and it must
