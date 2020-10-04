@@ -2,6 +2,7 @@
 
 The data for this project is stored in a google drive folder and can be accessed by request: https://drive.google.com/drive/folders/1XrgaRp9ts6SK10pGPPTW75btIYmeta3I?usp=sharing
 
+If github has a problem rendering the notebook you can click on this link to see the rendered html of the notebook:
 https://htmlpreview.github.io/?https://github.com/shaneg1507/data-analytics-in-supply-chain/blob/main/Analysis_Explained.html
 
 The analysis for my ME in Engineering with Business thesis at University College Dublin's School of Mechanical and Materials Engineering in May 2020.
